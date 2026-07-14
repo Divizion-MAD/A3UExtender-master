@@ -1,0 +1,18 @@
+{
+    "title": "RDO Red Dawn Occupation",
+    "name": "RDO",
+    "author": "RoninsRebel",
+    "website": "",
+    "version": "0.0.1",
+    "buildPath": "build",
+    "privateKey": "",
+    "serverDirs": [],
+    "serverUse32bit": false,
+    "clientDirs": [
+        "A3UE_RDO/addons/core",
+        "A3UE_RDO/addons/templates"
+    ],
+    "clientMods": [],
+    "ftpConnection": {},
+    "steamPath": "C:\\Program Files (x86)\\Steam"
+}
